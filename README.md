@@ -64,11 +64,12 @@ cd GIT-GITHUB-WORKSHOP
 Do not work on main! Create your specific branch.
 
 ```bash
-# Example for Member 1
 git checkout -b branch-name
 ```
 #### Change the 'origin' link to YOUR new Team Repository
+```bash
 git remote set-url origin https://github.com/TEAM-LEAD-USERNAME/team-name.git
+```
 
 ### Phase 3: Code & Commit (Everyone)
 
@@ -140,6 +141,7 @@ You are now Git contributors!
 ---
 
 **Built with ❤️ by IT Geeks Club**
+
 
 
 
