@@ -28,10 +28,10 @@ Decide who is Member 1, 2, 3, and 4.
 
 | Role | Branch Name | Section to Edit | Responsibility |
 |------|-------------|-----------------|----------------|
-| Member 1 | feature-hero | Hero Section | Change Headline, Slogan, and Button text. |
-| Member 2 | feature-about | About Section | Write club description, update stats numbers. |
-| Member 3 | feature-activities | Activities | Rename cards to real workshop topics (e.g., Python, UI/UX). |
-| Member 4 | feature-team | Team Section | Add names and roles for 4 board members. |
+| Member 1 | branch1 | Hero Section | Change Headline, Slogan, and Button text. |
+| Member 2 | branch2 | About Section | Write club description, update stats numbers. |
+| Member 3 | branch3 | Activities | Rename cards to real workshop topics (e.g., Python, UI/UX). |
+| Member 4 | branch4 | Team Section | Add names and roles for 4 board members. |
 
 ## 🛠️ Step-by-Step Workflow
 
@@ -124,6 +124,7 @@ You are now Git contributors!
 ---
 
 **Built with ❤️ by IT Geeks Club**
+
 
 
 
