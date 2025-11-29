@@ -37,10 +37,23 @@ Decide who is Member 1, 2, 3, and 4.
 
 ### Phase 1: Setup (Everyone)
 
-Fork this repository (One person forks, invites others as Collaborators, OR everyone forks individually).
+Goal: Create a single shared repository for your team.
 
-Clone to your computer:
+  1. Designate a Team Lead: Choose one person to host the project.
 
+  2. Team Lead Forks: The Lead clicks Fork on this repository to copy it to their account.
+
+  3. Add Collaborators:
+
+   - The Lead goes to Settings > Collaborators on the newly forked repo.
+
+   - Click Add people and enter the GitHub usernames of the other 3 members.
+
+  4. Accept Invites: Team members check their email or GitHub notifications to accept access.
+
+  5. Everyone Clones:
+
+ - All 4 members clone the Team Lead's fork (NOT the original instructor's repo):
 ```bash
 git clone https://github.com/ItgeeksFSTT/GIT-GITHUB-WORKSHOP
 cd GIT-GITHUB-WORKSHOP
@@ -124,6 +137,7 @@ You are now Git contributors!
 ---
 
 **Built with ❤️ by IT Geeks Club**
+
 
 
 
